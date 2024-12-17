@@ -1,0 +1,27 @@
+{
+    "station_name": "Station North", 
+    "street": "Main St", 
+    "city": "Atlantis", 
+    "zip": 1234,
+    "measuring_points":[
+        {
+            "date":"2024-01-01",
+            "values":{
+                "temp": 5,
+                "temp_unit": "celsius"
+            }
+        },
+        {
+            "date":"2024-01-02",
+            "values":{
+                "temp": 6,
+                "temp_unit": "celsius"
+            }
+        }
+    ],
+    "contact":{
+        "name": "Alice",
+        "phone": "+490204112345",
+        "mail": "support@wetherstation.com"
+    }
+}

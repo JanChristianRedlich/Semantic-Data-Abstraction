@@ -1,0 +1,18 @@
+{
+    "sensor":{
+        "name": "DEVICE_NAME", 
+        "address":{
+            "street": "STREET", 
+            "city": "CITY", 
+            "zip": "ZIP"
+        },
+        "support_mail": "CONTACT_MAIL",
+        "support_phone": "CONTACT_PHONE"
+    },
+    "data":[
+        {
+            "date":"DATE",
+            "air_temp": "AIR_TEMPERATURE"
+        }
+    ]
+}

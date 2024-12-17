@@ -1,0 +1,18 @@
+{
+    "station_name": "DEVICE_NAME", 
+    "street": "STREET", 
+    "city": "CITY", 
+    "zip": "ZIP", 
+    "measuring_points":[
+        {
+            "date":"DATE",
+            "values":{
+                "temp": "AIR_TEMPERATURE"
+            }
+        }
+    ],
+    "contact":{
+        "phone": "CONTACT_PHONE",
+        "mail": "CONTACT_MAIL"
+    }
+}
