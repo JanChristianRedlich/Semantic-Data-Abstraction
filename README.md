@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/889865941.svg)](https://doi.org/10.5281/zenodo.14507226)
 # Semantic Data Abstraction (SDA)
 
 Welcome to the **Semantic Data Abstraction (SDA)** Python library! This guide will walk you through the steps to get started with the library, including installation, usage, and key components. The SDA library provides tools to integrate and transform data sources into structured target schemas using graph-based transformations, semantic annotations, and rule-based operations.
