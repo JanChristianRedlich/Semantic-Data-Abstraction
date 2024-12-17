@@ -7,7 +7,7 @@ import json
 from regraph import NXGraph, Rule, NXHierarchy
 from regraph import plot_graph, plot_instance, plot_rule
 
-class SDAHirarchicalGraph:
+class SDAHierarchicalGraph:
     def __init__(self):
         self.G = None
         self.S = None

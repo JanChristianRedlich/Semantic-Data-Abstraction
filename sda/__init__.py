@@ -1,4 +1,4 @@
-from .sdahirarchicalgraph import SDAHirarchicalGraph
+from .sdahierarchicalgraph import SDAHierarchicalGraph
 from .sdaintegration import SDAIntegration
 from .sdatransformation import SDATransformation
 from .sdatransformoperation import SDATransformOperation

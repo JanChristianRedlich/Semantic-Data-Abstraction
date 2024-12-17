@@ -1,13 +1,13 @@
 import json
 import pandas as pd
-from .sdahirarchicalgraph import SDAHirarchicalGraph
+from .sdahierarchicalgraph import SDAHierarchicalGraph
 from .sdatransformation import SDATransformation
 from regraph import plot_graph, plot_instance, plot_rule
 
 
 class SDAIntegration:
     def __init__(self):
-        self.hirarchicalGraph = SDAHirarchicalGraph()
+        self.hirarchicalGraph = SDAHierarchicalGraph()
         self.transformation = SDATransformation()
 
     def loadSource(self, jsonSourcePath, sourceAnnotationJsonPath):
